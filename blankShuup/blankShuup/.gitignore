@@ -1,0 +1,4 @@
+shuup-venv
+*.DS_Store
+*.pyc
+__pycache__
